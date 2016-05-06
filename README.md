@@ -11,4 +11,6 @@ To use this script have docker installed. Then run:
 To expose port 8000 to the container and run the Jolie program `program.ol`.
 
 ### Links
-[DuckerHub Jolie Image](https://hub.docker.com/r/ezbob/jolie/)
+
+- [Docker Installation](https://docs.docker.com/engine/installation/)
+- [DockerHub Jolie Image](https://hub.docker.com/r/ezbob/jolie/)
